@@ -1,0 +1,3 @@
+Hussain,50000
+Aftab,40000
+Jawad,13500
